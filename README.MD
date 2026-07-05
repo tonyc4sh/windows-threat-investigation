@@ -30,3 +30,9 @@ This repository contains my independent forensic analysis of a Windows security 
 - IOC list
 - Investigation findings
 - Recommendations
+
+## Note
+
+The dataset analysed in this project originated from a publicly distributed technical assessment.
+
+The purpose of this repository is to demonstrate my investigation methodology, documentation skills and incident analysis process.
